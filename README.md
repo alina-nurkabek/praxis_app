@@ -150,6 +150,22 @@ We value your feedback and are committed to continuously improving the Praxis ap
 ## Privacy and Security:
 At Praxis, we take your privacy and security seriously. We adhere to strict data protection measures to ensure that your personal information remains safe and confidential. For more information, please refer to our [Privacy Policy](link-to-privacy-policy).
 
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/537b2f08-d88f-49c3-9de3-6c9636f3d400)
+
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/4609c7f8-6a59-4161-bff0-47724a641f79)
+
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/116467a1-db8a-4ac3-a53f-c11b36cac0ba)
+
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/881cdfd4-e0b0-4814-8398-2d33167abff1)
+
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/503c30dd-4909-4ad6-af2b-ed9dba16664d)
+
+
+
+
+
+
+
 ---
 
 ## Thank you for choosing Praxis!
