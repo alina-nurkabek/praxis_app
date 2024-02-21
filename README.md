@@ -68,7 +68,6 @@ At Praxis, we take your privacy and security seriously. We adhere to strict data
 ![photo_2024-02-21_07-07-57](https://github.com/alina-nurkabek/praxis_app/assets/119506615/417f5ddf-35ef-4dd3-85d9-adec941bf6f4)
 ## Greeting Pages
 ![photo_2024-02-21_07-08-02](https://github.com/alina-nurkabek/praxis_app/assets/119506615/67587737-f697-4315-87a6-3ae652753fa9)
-![photo_2024-02-21_07-08-25](https://github.com/alina-nurkabek/praxis_app/assets/119506615/1d77030b-5e84-4fd6-8b80-803737f66cc9)
 
 ## Dashboard
 ![photo_2024-02-21_07-33-47](https://github.com/alina-nurkabek/praxis_app/assets/119506615/99fd6306-d4ee-4b80-88ac-6dba55f67462)
@@ -94,6 +93,8 @@ At Praxis, we take your privacy and security seriously. We adhere to strict data
 ![photo_2024-02-21_07-29-21](https://github.com/alina-nurkabek/praxis_app/assets/119506615/d6272b41-825b-40e6-8d50-02c1cb6c7c40)
 
 ## Praxis Pro Plans
+![photo_2024-02-21_08-01-43](https://github.com/alina-nurkabek/praxis_app/assets/119506615/3b1517bb-1e4d-4181-8f18-700c0d8050f7)
+
 
 ---
 
