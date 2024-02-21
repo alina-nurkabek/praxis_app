@@ -70,7 +70,8 @@ At Praxis, we take your privacy and security seriously. We adhere to strict data
 ![photo_2024-02-21_07-08-02](https://github.com/alina-nurkabek/praxis_app/assets/119506615/67587737-f697-4315-87a6-3ae652753fa9)
 
 ## Dashboard
-![photo_2024-02-21_07-33-47](https://github.com/alina-nurkabek/praxis_app/assets/119506615/99fd6306-d4ee-4b80-88ac-6dba55f67462)
+![photo_2024-02-21_08-44-34](https://github.com/alina-nurkabek/praxis_app/assets/119506615/0d6bee4c-7541-483f-b7bb-e34db482a260)
+
 
 ## Login Page
 ![photo_2024-02-21_07-19-43](https://github.com/alina-nurkabek/praxis_app/assets/119506615/3318c266-2365-454a-8381-ae72ecb3b7ac)
@@ -80,14 +81,16 @@ At Praxis, we take your privacy and security seriously. We adhere to strict data
 ![photo_2024-02-21_07-24-22](https://github.com/alina-nurkabek/praxis_app/assets/119506615/7f3a6636-bc39-4f9f-be55-496e24661f91)
 
 ## Add Resume page
-![photo_2024-02-21_07-25-46](https://github.com/alina-nurkabek/praxis_app/assets/119506615/b1a939f1-079a-49ff-9c32-d2e3d9e810ec)
+![photo_2024-02-21_08-43-39](https://github.com/alina-nurkabek/praxis_app/assets/119506615/067ec753-0a5d-4d2d-96a5-0cdc730eb974)
 
 
 ## Profile Page
-![photo_2024-02-21_07-25-46](https://github.com/alina-nurkabek/praxis_app/assets/119506615/9927b90c-c909-4da3-b311-b2d72543e470)
+![photo_2024-02-21_08-42-46](https://github.com/alina-nurkabek/praxis_app/assets/119506615/719cdeb8-8dfa-4e60-920a-78d6c079ee92)
+
 
 ## Update Profile
-![photo_2024-02-21_07-25-46](https://github.com/alina-nurkabek/praxis_app/assets/119506615/136cfc27-5705-48f5-b8b8-bee5c242e991)
+![photo_2024-02-21_08-41-53](https://github.com/alina-nurkabek/praxis_app/assets/119506615/9bdea50d-627a-40f2-a9f8-46796caf5ecd)
+
 
 ## Delete Profile
 ![photo_2024-02-21_07-29-21](https://github.com/alina-nurkabek/praxis_app/assets/119506615/d6272b41-825b-40e6-8d50-02c1cb6c7c40)
