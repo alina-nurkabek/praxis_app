@@ -78,7 +78,8 @@ At Praxis, we take your privacy and security seriously. We adhere to strict data
 ## Create an Interview Page
 ![photo_2024-02-21_07-19-43](https://github.com/alina-nurkabek/praxis_app/assets/119506615/9e486495-5600-49a6-bcd2-64d1bbfb1c83)
 ## My quests page
-![photo_2024-02-21_07-24-22](https://github.com/alina-nurkabek/praxis_app/assets/119506615/7f3a6636-bc39-4f9f-be55-496e24661f91)
+![image](https://github.com/alina-nurkabek/praxis_app/assets/119506615/8e8a4d0e-0ffa-42bd-832e-3f44ff120b64)
+
 
 ## Add Resume page
 ![photo_2024-02-21_08-43-39](https://github.com/alina-nurkabek/praxis_app/assets/119506615/067ec753-0a5d-4d2d-96a5-0cdc730eb974)
